@@ -10515,11 +10515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\son\\Documents\\c#_project\\BaiTapTuan\\BaiTapTuan\\BaiTapTuan.csproj",
+      "projectUniqueName": "C:\\Users\\son\\Documents\\c#_project\\bai_tap_tuan_ttcsn\\BaiTapTuan\\BaiTapTuan.csproj",
       "projectName": "BaiTapTuan",
-      "projectPath": "C:\\Users\\son\\Documents\\c#_project\\BaiTapTuan\\BaiTapTuan\\BaiTapTuan.csproj",
+      "projectPath": "C:\\Users\\son\\Documents\\c#_project\\bai_tap_tuan_ttcsn\\BaiTapTuan\\BaiTapTuan.csproj",
       "packagesPath": "C:\\Users\\son\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\son\\Documents\\c#_project\\BaiTapTuan\\BaiTapTuan\\obj\\",
+      "outputPath": "C:\\Users\\son\\Documents\\c#_project\\bai_tap_tuan_ttcsn\\BaiTapTuan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\son\\AppData\\Roaming\\NuGet\\NuGet.Config",

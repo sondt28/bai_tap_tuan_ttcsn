@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BaiTapTuan
 build_property.RootNamespace = BaiTapTuan
-build_property.ProjectDir = C:\Users\son\Documents\c#_project\BaiTapTuan\BaiTapTuan\
+build_property.ProjectDir = C:\Users\son\Documents\c#_project\bai_tap_tuan_ttcsn\BaiTapTuan\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\son\Documents\c#_project\BaiTapTuan\BaiTapTuan
+build_property.MSBuildProjectDirectory = C:\Users\son\Documents\c#_project\bai_tap_tuan_ttcsn\BaiTapTuan
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/HelloWorld/Index.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Home/Index.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Home/Privacy.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Movies/Create.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Movies/Delete.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Movies/Details.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Movies/Edit.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Movies/Index.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Shared/Error.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/_ViewImports.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/_ViewStart.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/son/Documents/c\#_project/BaiTapTuan/BaiTapTuan/Views/Shared/_Layout.cshtml]
+[C:/Users/son/Documents/c\#_project/bai_tap_tuan_ttcsn/BaiTapTuan/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-102reyfs8k

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8m8Q6EXK7I8NSzzTsoTxr/2pWeQtndVAHYyRatf5ldOWl/ZY96I9hcpCqMhQKsuThhpDnO6pENZZsImHUjsgnQ==",
+  "dgSpecHash": "9ikT8KiC55/35RxGDdflN2koMl0Pho5vXEghyfY4YRtpwpmYynUATZ5FIccpwvQ+NksmnlaqqBc9rcL8flSgEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\son\\Documents\\c#_project\\BaiTapTuan\\BaiTapTuan\\BaiTapTuan.csproj",
+  "projectFilePath": "C:\\Users\\son\\Documents\\c#_project\\bai_tap_tuan_ttcsn\\BaiTapTuan\\BaiTapTuan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\son\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\son\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
