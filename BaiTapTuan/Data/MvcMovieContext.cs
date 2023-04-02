@@ -14,6 +14,6 @@ namespace BaiTapTuan.Data
         {
         }
 
-        public DbSet<BaiTapTuan.Models.Movies> Movies { get; set; } = default!;
+        public DbSet<BaiTapTuan.Models.Movie> Movies { get; set; } = default!;
     }
 }
