@@ -22,6 +22,7 @@ namespace BaiTapTuan.Controllers
         // GET: Movies
         public async Task<IActionResult> Index(string movieGenre, string searchString)
         {
+            // Use LINQ to get list of genres.
             IQueryable<string> genreQuery = from m in _context.Movies
                                             orderby m.Genre
                                             select m.Genre;
