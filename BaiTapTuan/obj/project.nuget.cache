@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9ikT8KiC55/35RxGDdflN2koMl0Pho5vXEghyfY4YRtpwpmYynUATZ5FIccpwvQ+NksmnlaqqBc9rcL8flSgEQ==",
+  "dgSpecHash": "UrI/ysvzwket0BGuF0YSbf0nSL0nnA/o/H0Qgus+PUgxUUwV/m0wPCf3duvJGz5AQvWB/gBVzurUS/mHiacQiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\son\\Documents\\c#_project\\bai_tap_tuan_ttcsn\\BaiTapTuan\\BaiTapTuan.csproj",
   "expectedPackageFiles": [
@@ -40,7 +40,7 @@
     "C:\\Users\\son\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.4\\microsoft.entityframeworkcore.design.7.0.4.nupkg.sha512",
     "C:\\Users\\son\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.4\\microsoft.entityframeworkcore.relational.7.0.4.nupkg.sha512",
     "C:\\Users\\son\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.4\\microsoft.entityframeworkcore.sqlserver.7.0.4.nupkg.sha512",
-    "C:\\Users\\son\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.15\\microsoft.entityframeworkcore.tools.6.0.15.nupkg.sha512",
+    "C:\\Users\\son\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.16\\microsoft.entityframeworkcore.tools.6.0.16.nupkg.sha512",
     "C:\\Users\\son\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\son\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\son\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
